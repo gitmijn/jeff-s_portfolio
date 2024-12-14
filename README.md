@@ -1,11 +1,9 @@
-# jeff-s_portfolio
-A portfolio of data projects
-
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, ,
 
 ## Education
+- Google Business Intelligence Professional Certificate Online (12/2020 - 5/2020)
 - Master of Business Administration  | Carnegie Melon (2005)							       		
 - M.S., Electrical Engineering	| NTU	(2002)	        		
 - B.S., Electrical Engineering | Virginia Tech (1996)
@@ -15,9 +13,8 @@ A portfolio of data projects
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Product Manager @ Agilent Technologies (_July 2015 - November 2021)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Data Projects
 ### County Property Tax Dashboard Analysis
@@ -31,4 +28,6 @@ Completed an analysis of property tax data in my home country to see if a proper
 Used Llama model to categorize transactions based on standard financial categories.
 
 ![Category mapping](/assets/img/financial_transactions_categorized.png.jpeg)
+
+
 
