@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, ,
+#### Technical Skills: Python, SQL, AWS, Google Analytics GA4,
 
 ## Education
 - Google Business Intelligence Professional Certificate Online (12/2020 - 5/2020)
@@ -27,7 +27,7 @@ Completed an analysis of property tax data in my home country to see if a proper
 
 Used Llama model to categorize transactions based on standard financial categories.
 
-![Category mapping](/assets/img/financial_transactions_categorized.png.jpeg)
+![Category mapping](/assets/img/financial_transactions_categorized.png)
 
 
 
