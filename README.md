@@ -6,7 +6,7 @@ A portfolio of data projects
 #### Technical Skills: Python, SQL, AWS, ,
 
 ## Education
-- M.B.A.                        | Carnegie Melon (2005)							       		
+- Master of Business Administration  | Carnegie Melon (2005)							       		
 - M.S., Electrical Engineering	| NTU	(2002)	        		
 - B.S., Electrical Engineering | Virginia Tech (1996)
 
