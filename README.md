@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Google Analytics GA4,
+#### Technical Skills: Python, SQL, AWS, Google Analytics GA4, Ruby on Rails, R/RStudio, Vim
 
 ## Education
-- Google Business Intelligence Professional Cert. (12/2024)
+- Business Intelligence Prof Cert. | Google Online (12/2024)
 - Master of Business Administration  | Carnegie Melon (2005)							       		
 - M.S., Electrical Engineering	| NTU	(2002)	        		
 - B.S., Electrical Engineering | Virginia Tech (1996)
@@ -15,6 +15,8 @@
 
 **Product Manager @ Agilent Technologies (_July 2015 - November 2021)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+
+**President @
 
 ## Data Projects
 ### County Property Tax Dashboard Analysis
