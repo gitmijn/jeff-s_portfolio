@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Google Analytics GA4,
 
 ## Education
-- Google Business Intelligence Professional Cert. Online (10/2024 - 12/2024)
+- Google Business Intelligence Professional Cert. (12/2024)
 - Master of Business Administration  | Carnegie Melon (2005)							       		
 - M.S., Electrical Engineering	| NTU	(2002)	        		
 - B.S., Electrical Engineering | Virginia Tech (1996)
