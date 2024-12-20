@@ -26,9 +26,9 @@ Completed an analysis of property tax data in my home country to see if a proper
 
 ![Tableau Dashboard](/assets/img/dashboard_image.png)
 
-### Expense categorization using Llama LLM
+### Expense categorization using BERT NLP machine learning
 
-Used Llama model to categorize transactions based on standard financial categories.
+[Jupyter notebook]([url](https://github.com/gitmijn/ml_categorize_transaction/tree/main)) where BERT was used to train a NLP model on an existing bank's categories to be applied more broadly to other financial transactions.
 
 ![Category mapping](/assets/img/financial_transactions_categorized.png)
 
