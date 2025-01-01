@@ -24,7 +24,7 @@
 
 Completed an analysis of property tax data in my home country to see if a property is an outlier. Built a dashboard to allow users to manipulate data for custom analysis
 
-[Custom SQL]([url](https://github.com/gitmijn/bi_data_analysis_bike_share_project/blob/main/bikeshare_trips.sql)) for retreiving public data from BigQuery
+[Custom SQL](https://github.com/gitmijn/bi_data_analysis_bike_share_project/blob/main/bikeshare_trips.sql) for retreiving public data from BigQuery
 [Live dashboard]([url](https://public.tableau.com/app/profile/jeffrey.holden/viz/BIC3M3_Activity/MDOTDash?publish=yes)) on Tableau Public
 
 ![Tableau Dashboard](/assets/img/dashboard_image.png)
