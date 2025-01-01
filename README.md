@@ -25,7 +25,7 @@
 Completed an analysis of property tax data in my home country to see if a property is an outlier. Built a dashboard to allow users to manipulate data for custom analysis
 
 [Custom SQL](https://github.com/gitmijn/bi_data_analysis_bike_share_project/blob/main/bikeshare_trips.sql) for retreiving public data from BigQuery
-[Live dashboard]([url](https://public.tableau.com/app/profile/jeffrey.holden/viz/BIC3M3_Activity/MDOTDash?publish=yes)) on Tableau Public
+[Live dashboard](https://public.tableau.com/app/profile/jeffrey.holden/viz/BIC3M3_Activity/MDOTDash?publish=yes) on Tableau Public
 
 ![Tableau Dashboard](/assets/img/dashboard_image.png)
 
@@ -39,7 +39,7 @@ Completed as part of the Google Business Intelligence course on Coursera
 
 ### Expense categorization using BERT NLP machine learning
 
-[Jupyter notebook]([url](https://github.com/gitmijn/ml_categorize_transaction/tree/main)) where BERT was used to train a NLP model on an existing bank's categories to be applied more broadly to other financial transactions.
+[Jupyter notebook](https://github.com/gitmijn/ml_categorize_transaction/tree/main) where BERT was used to train a NLP model on an existing bank's categories to be applied more broadly to other financial transactions.
 
 ![Category mapping](/assets/img/financial_transactions_categorized.png)
 
